@@ -7,3 +7,12 @@
 [submodule "docutask-api-gateway"]
 	path = docutask-api-gateway
 	url = https://github.com/DionFernando/docutask-api-gateway.git
+[submodule "docutask-user-service"]
+	path = docutask-user-service
+	url = https://github.com/DionFernando/docutask-user-service.git
+[submodule "docutask-document-service"]
+	path = docutask-document-service
+	url = https://github.com/DionFernando/docutask-document-service.git
+[submodule "docutask-task-service"]
+	path = docutask-task-service
+	url = https://github.com/DionFernando/docutask-task-service.git
