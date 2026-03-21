@@ -1,0 +1,9 @@
+[submodule "docutask-config-server"]
+	path = docutask-config-server
+	url = https://github.com/DionFernando/docutask-config-server.git
+[submodule "docutask-eureka-server"]
+	path = docutask-eureka-server
+	url = https://github.com/DionFernando/docutask-eureka-server.git
+[submodule "docutask-api-gateway"]
+	path = docutask-api-gateway
+	url = https://github.com/DionFernando/docutask-api-gateway.git
