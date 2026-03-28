@@ -16,3 +16,6 @@
 [submodule "docutask-task-service"]
 	path = docutask-task-service
 	url = https://github.com/DionFernando/docutask-task-service.git
+[submodule "docutask-frontend"]
+	path = docutask-frontend
+	url = https://github.com/DionFernando/docutask-frontend.git
